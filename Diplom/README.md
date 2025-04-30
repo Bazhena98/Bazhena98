@@ -7,8 +7,7 @@
 
 ## Основные задачи  
 ### Задание 1: Веб-приложение Яндекс.Самокат  
-- Изучение требований к функциональности приложения.  
-- Составление чек-листа проверки экрана «Статус заказа».  
+- Изучение требований к функциональности приложения.    
 - Подготовка тестов валидации полей экрана «Сделать заказ».  
 - Проведение тестирования функциональности по чек-листам, таблице валидации и требованиям.  
 - Заведение багов, найденных как по тестовой документации, так и вне её.
@@ -38,16 +37,15 @@
 
 ## 📋 Чек-листы и тест-кейсы  
   
-- [Чек-лист проверки экрана «Статус заказа»](https://docs.google.com/spreadsheets/d/1KvTxCZOjo6erm6RPRndQOLiCjm-FsLKBhoV_mHBafvo/edit?gid=943703744#gid=943703744)  
-- [Таблица данных валидации полей экрана «Сделать заказ»](https://docs.google.com/spreadsheets/d/1KvTxCZOjo6erm6RPRndQOLiCjm-FsLKBhoV_mHBafvo/edit?gid=1540465171#gid=1540465171)  
-- [Тест-кейсы мобильного приложения для курьеров](https://docs.google.com/spreadsheets/d/1KvTxCZOjo6erm6RPRndQOLiCjm-FsLKBhoV_mHBafvo/edit?gid=424948590#gid=424948590)  
-- [Чек-лист тестирования API приложения](https://docs.google.com/spreadsheets/d/1KvTxCZOjo6erm6RPRndQOLiCjm-FsLKBhoV_mHBafvo/edit?gid=336872680#gid=336872680)  
+-[Чек-лист проверки экрана "Статус заказа"](https://docs.google.com/spreadsheets/d/1200IP1z6ZY4Hk4Yd0XoF4i5fQCu3D9udsESkaac1f30/edit?gid=943703744#gid=943703744)
+- [Таблица данных валидации полей экрана «Сделать заказ»](https://docs.google.com/spreadsheets/d/1200IP1z6ZY4Hk4Yd0XoF4i5fQCu3D9udsESkaac1f30/edit?gid=1540465171#gid=1540465171)  
+- [Тест-кейсы мобильного приложения для курьеров](https://docs.google.com/spreadsheets/d/1200IP1z6ZY4Hk4Yd0XoF4i5fQCu3D9udsESkaac1f30/edit?gid=424948590#gid=424948590)  
+- [Чек-лист тестирования API приложения](https://docs.google.com/spreadsheets/d/1200IP1z6ZY4Hk4Yd0XoF4i5fQCu3D9udsESkaac1f30/edit?gid=336872680#gid=336872680)  
 
 ## 🐞 Баг-репорты  
 - Все дефекты зарегистрированы в Google Sheets:
-  - [Веб-приложения](https://docs.google.com/spreadsheets/d/1KvTxCZOjo6erm6RPRndQOLiCjm-FsLKBhoV_mHBafvo/edit?gid=447651182#gid=447651182)
-  - [Баги мобильного приложения](https://docs.google.com/spreadsheets/d/1KvTxCZOjo6erm6RPRndQOLiCjm-FsLKBhoV_mHBafvo/edit?gid=2059489510#gid=2059489510)  
-  - [Баги API](https://docs.google.com/spreadsheets/d/1KvTxCZOjo6erm6RPRndQOLiCjm-FsLKBhoV_mHBafvo/edit?gid=113330593#gid=113330593)
+  - [Баги](https://docs.google.com/spreadsheets/d/1200IP1z6ZY4Hk4Yd0XoF4i5fQCu3D9udsESkaac1f30/edit?gid=1413524465#gid=1413524465)
+  - [Баги API](https://docs.google.com/spreadsheets/d/1200IP1z6ZY4Hk4Yd0XoF4i5fQCu3D9udsESkaac1f30/edit?gid=818524063#gid=818524063)
 
 ---
 
