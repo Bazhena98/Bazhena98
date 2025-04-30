@@ -37,7 +37,7 @@
 
 ## 📋 Чек-листы и тест-кейсы  
   
--[Чек-лист проверки экрана "Статус заказа"](https://docs.google.com/spreadsheets/d/1200IP1z6ZY4Hk4Yd0XoF4i5fQCu3D9udsESkaac1f30/edit?gid=943703744#gid=943703744)
+- [Чек-лист проверки экрана "Статус заказа"](https://docs.google.com/spreadsheets/d/1200IP1z6ZY4Hk4Yd0XoF4i5fQCu3D9udsESkaac1f30/edit?gid=943703744#gid=943703744)
 - [Таблица данных валидации полей экрана «Сделать заказ»](https://docs.google.com/spreadsheets/d/1200IP1z6ZY4Hk4Yd0XoF4i5fQCu3D9udsESkaac1f30/edit?gid=1540465171#gid=1540465171)  
 - [Тест-кейсы мобильного приложения для курьеров](https://docs.google.com/spreadsheets/d/1200IP1z6ZY4Hk4Yd0XoF4i5fQCu3D9udsESkaac1f30/edit?gid=424948590#gid=424948590)  
 - [Чек-лист тестирования API приложения](https://docs.google.com/spreadsheets/d/1200IP1z6ZY4Hk4Yd0XoF4i5fQCu3D9udsESkaac1f30/edit?gid=336872680#gid=336872680)  
